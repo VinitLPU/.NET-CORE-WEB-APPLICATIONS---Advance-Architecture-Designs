@@ -12,15 +12,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{64A28C1B-09AF-426E-8721-D002BE554B48}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharedKernel", "src\SharedKernel\SharedKernel.csproj", "{166778A2-518F-47F0-BBC7-DB49C76A963C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharedKernel", "SharedKernel\SharedKernel.csproj", "{166778A2-518F-47F0-BBC7-DB49C76A963C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "src\Domain\Domain.csproj", "{6448ADE8-34BC-4F2F-A68C-5B2D6BF4FB0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csproj", "{6448ADE8-34BC-4F2F-A68C-5B2D6BF4FB0B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application", "src\Application\Application.csproj", "{0F576D4A-156D-4626-A4D5-83DD0F6FAFE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application", "Application\Application.csproj", "{0F576D4A-156D-4626-A4D5-83DD0F6FAFE7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "src\Infrastructure\Infrastructure.csproj", "{C699FD09-4D82-4C4B-8744-4FD3B0D60EFC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{C699FD09-4D82-4C4B-8744-4FD3B0D60EFC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web.Api", "src\Web.Api\Web.Api.csproj", "{86506D03-3746-41E7-A645-97D3633981DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web.Api", "Web.Api\Web.Api.csproj", "{86506D03-3746-41E7-A645-97D3633981DB}"
 	ProjectSection(ProjectDependencies) = postProject
 		{0F576D4A-156D-4626-A4D5-83DD0F6FAFE7} = {0F576D4A-156D-4626-A4D5-83DD0F6FAFE7}
 	EndProjectSection
