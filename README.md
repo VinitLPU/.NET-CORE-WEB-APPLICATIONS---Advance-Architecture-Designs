@@ -1,5 +1,7 @@
 
-# Clean Architecture Template
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/c5677613-c4b0-4e8e-aaf1-30fe53fd6100" />
+
+# ERP Based .NET 10 Clean Architecture Template
 
 What's included in the template?
 
@@ -32,6 +34,3 @@ What's included in the template?
 - Integration testing
 
 I'm open to hearing your feedback about the template and what you'd like to see in future Scopes.
-
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/c5677613-c4b0-4e8e-aaf1-30fe53fd6100" />
-
