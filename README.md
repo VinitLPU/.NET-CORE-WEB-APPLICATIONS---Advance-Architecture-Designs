@@ -1,5 +1,4 @@
-
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/c5677613-c4b0-4e8e-aaf1-30fe53fd6100" />
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/57cd4a8e-b1c1-48bb-ae53-832567e72e15" />
 
 # ERP Based .NET 10 Clean Architecture Template
 
